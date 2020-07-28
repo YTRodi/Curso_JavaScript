@@ -1,0 +1,52 @@
+Plugins instalados para el curso:
+	- EsLint
+	- Live Server
+	- Prettier
+
+Caracteristicas:
+
+- Lenguaje de alto nivel.
+- Lenguaje interpretado.
+- Dinámico.
+- Debilmente tipado.
+- Multi paradigma.
+- Case sensitive.
+
+<---------------------------------------------------------------------------------------->
+
+Reglas de estilo JavaScript:
+
+#ESCRITURA DE CÓDIGO:
+
+## Identificadores:
+	- Deben comenzar con una letra, signo '$', guión bajo.
+	- NUNCA con números o caracteres especiales.
+## Archivos:
+	- 'snake_case': mi_archivo_de_javascript.js 
+## Constantes:
+	- 'UPPER_CASE': const UNA_CONSTANTE = 'Soy una constante'
+## Clases:
+	- 'UpperCamelCase': class SerHumano {}
+## Usar 'lowerCamelCase':
+	- Objetos: const unObjeto {}
+	- Primitivos: let unaCadena = 'Hola Mundo'
+	- Funciones: function holaMundo(){}
+	- Instancias: const ajax = new XMLHtppRequest()
+
+#ORDENAMIENTO DE CÓDIGO (Orden):
+	- 1)Importación de modulos.
+	- 2)Declaración de variables.
+	- 3)Declaración de funciones
+	- 4)Ejecución de código.
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	
+<---------------------------------------------------------------------------------------->
