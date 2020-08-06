@@ -1,8 +1,6 @@
 console.log("<---- EJ 02 - START ---->");
 
 function stringRepeat(data, repetitions) {
-    
-    let returnStr = "";
 
     if(!data){console.warn("No ingresaste una cadena de texto.");}
     if(repetitions === undefined) {console.warn("No ingresate el número de veces a repetir el texto.")}
