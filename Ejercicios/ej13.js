@@ -1,7 +1,7 @@
 console.log("<---- EJ 13 - START ---->");
 
 const isPair = (number) => {
-	if (!isNaN(number)) {
+	if (isNaN(number)) {
 		return "No ingresaste un número.";
 	} else {
 		if (number % 2 === 0) {
@@ -12,7 +12,7 @@ const isPair = (number) => {
 	}
 };
 
-console.log(isPair("2"));
+console.log(isPair("pepe"));
 console.log(isPair(2));
 console.log(isPair(3));
 console.log(isPair(4));
