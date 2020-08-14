@@ -1,3 +1,0 @@
-Clase 45: Asincronía y el Event Loop 
-
--JS es un lenguaje single thread.

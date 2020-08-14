@@ -1,3 +1,4 @@
+//Clase 44.
 //Una manera de ejecutar a posterior funciones en JS, lo hacemos mediante temporizadores.
 //SetTimeOut = Recibe una callback y recibe un tiempo expresado en milisegundos
 
