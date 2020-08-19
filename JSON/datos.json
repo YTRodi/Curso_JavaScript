@@ -1,0 +1,11 @@
+{
+	"cadena": "Yago",
+	"numero": "21",
+	"booleano": "true",
+	"arreglo": ["correr", "programar", "cocinar"],
+	"objeto": {
+		"twitter": "@rodiyago",
+		"email": "lele@gmail.com"
+	},
+	"nulo": null
+}
